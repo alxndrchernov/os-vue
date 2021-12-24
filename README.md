@@ -1,24 +1,16 @@
 # os-vue
 
-## Project setup
+# Установка и запуск
+Для запуска необходимо установить node js
+
+Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Запуск (Сервер будет запущен на localhost:8080)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
